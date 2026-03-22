@@ -1,1 +1,5 @@
-TEAM_MEMORY.md
+node_modules/
+package-lock.json
+*.png
+*.log
+.DS_Store
