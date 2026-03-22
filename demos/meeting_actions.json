@@ -1,0 +1,26 @@
+[
+  {
+    "owner": "Nora",
+    "action": "We need a new outbound list",
+    "due": "Friday",
+    "status": "open"
+  },
+  {
+    "owner": "Sam",
+    "action": "I will draft the lead scoring rubric",
+    "due": "Tuesday",
+    "status": "open"
+  },
+  {
+    "owner": "Nora",
+    "action": "Great. Sam owns rubric. I own outreach copy",
+    "due": "Wednesday",
+    "status": "open"
+  },
+  {
+    "owner": "Liam",
+    "action": "I will set up the CRM import automation",
+    "due": "next Monday",
+    "status": "open"
+  }
+]
